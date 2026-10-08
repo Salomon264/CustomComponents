@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uikit_primary">#004AC6</color>
+    <color name="uikit_secondary">#505F76</color>
+    <color name="uikit_tertiary">#943700</color>
+    <color name="uikit_error">#BA1A1A</color>
+    <color name="uikit_white">#FFFFFF</color>
+    <color name="uikit_black">#191B23</color>
+    <color name="uikit_grey">#C3C6D7</color>
+    <color name="uikit_darkenwhite">#FAF8FF</color>
+</resources>
