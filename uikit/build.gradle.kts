@@ -54,9 +54,11 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.runtime.annotation)
     implementation(libs.androidx.runtime)
+    implementation(libs.ui.tooling.preview)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    debugImplementation(libs.ui.tooling)
 }
 
 afterEvaluate {
